@@ -7,12 +7,12 @@ export to pdf
 
 https://www.adobe.com/acrobat/online/pdf-to-jpg.html
 
-echo "# powerbi-customer-satisfaction" >> README.md
+echo "# powerbi-superstore-dashboard" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Erik-Varga/powerbi-customer-satisfaction.git
+git remote add origin https://github.com/Erik-Varga/powerbi-superstore-dashboard.git
 git push -u origin main
 
 git add .
